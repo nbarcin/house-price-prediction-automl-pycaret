@@ -108,10 +108,3 @@ jupyter notebook
 ├── models/
 ├── README.md
 └── requirements.txt
-```
-
-
-
----
-
-## ⭐ If you found this project useful, feel free to star the repo!
